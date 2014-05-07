@@ -19,10 +19,10 @@
 		<javax.servlet.jsp-api.version>2.2.1</javax.servlet.jsp-api.version> <!-- Mojarra JSF 2.2.6 -->
 		<javax.el-api.version>2.2.1</javax.el-api.version> <!-- Mojarra JSF 2.2.6 -->
 		<jstl-api.version>1.2</jstl-api.version> <!-- Mojarra JSF 2.2.6 -->
-		<hibernate.version>4.3.5.Final</hibernate.version>
-		<eclipse.hint.deploy.server>Tomcat v7.0</eclipse.hint.deploy.server>
+		<hibernate.version>4.3.5.Final</hibernate.version> <!-- Hibernate 4.3.5 Final -->
+		<eclipse.hint.deploy.server>Tomcat v7.0</eclipse.hint.deploy.server> <!-- Tomcat v7.0 -->
 		<!-- <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>  -->
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding> <!-- Encoding UTF-8 -->
 	</properties>
 
 	<!-- ####################### Dependências de bibliotecas ##################### -->
